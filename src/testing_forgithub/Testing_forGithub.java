@@ -10,7 +10,7 @@ public class Testing_forGithub {
 if(true)
     System.out.print("");
 else
-    System.out.print("hi");
+    System.out.print("bey");
 
 
 
